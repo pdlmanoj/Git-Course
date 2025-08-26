@@ -8,4 +8,11 @@ def division(a,b):
 
 print(addition(12,11))
 print(division(55,60))
-print("Hello Main branch")
+print(division(550,60))
+
+print("Hello Hello-branch")
+print("Practicing fast forward merging")
+print("Hello")
+
+
+print("Trying merging conflit exercise")
