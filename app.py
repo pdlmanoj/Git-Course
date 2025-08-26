@@ -15,4 +15,7 @@ print("Practicing fast forward merging")
 print("Hello")
 
 
-print("Trying merging conflit exercise")
+print("No merge conflit here")
+print("This is merge confilt here")
+
+print("wow")
